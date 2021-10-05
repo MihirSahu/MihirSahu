@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Mihir+Sahu)](https://git.io/typing-svg)
 
 My name is Mihir Sahu and I'm a Computer Science and Finance major at the University of Houston :smile:
+<br>
 Check out my website at www.mihirsahu.com
 
 - 😄 Pronouns: He/Him
