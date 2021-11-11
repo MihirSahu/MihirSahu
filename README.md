@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Mihir+Sahu)](https://git.io/typing-svg)
 
-My name is Mihir Sahu and I'm a Computer Science and Finance major at the University of Houston :smile:
+My name is Mihir Sahu and I'm a Computer Science and Finance major at the University of Houston
 <br>
 Check out my website at www.mihirsahu.com
 
-- 😄 Pronouns: He/Him
-- :pencil2: I'm currently learning about web development (full stack) and cybersecurity
+- Pronouns: He/Him
+- I'm currently learning about full stack web development and cybersecurity
 - I like playing fps games :gun: and watching anime :sunglasses:
-- :telephone_receiver: Reach out to me at 2002mihir@gmail.com
+- Reach out to me at 2002mihir@gmail.com
