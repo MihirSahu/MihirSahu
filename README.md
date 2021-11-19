@@ -24,4 +24,4 @@ Check out my website at www.mihirsahu.com
 - I like playing fps games :gun: and watching anime :sunglasses:
 - Reach out to me at 2002mihir@gmail.com
 
-I occasionally write gists to archive my experiences and hopefully help others, so be sure to check them out!
+I occasionally write 'writeups' to archive my experiences and hopefully help others, so be sure to check them out!
