@@ -25,8 +25,7 @@ Check out my website at www.mihirsahu.com
 
 I occasionally write 'writeups' to archive my experiences and hopefully help others, so be sure to check them out!
 
-![tryhackme stats](https://raw.githubusercontent.com/MihirSahu/MihirSahu/main/assets/thm_propic.png)
-[tryhackme]
+[![tryhackme stats](https://raw.githubusercontent.com/MihirSahu/MihirSahu/main/assets/thm_propic.png)][tryhackme]
 
 
 [tryhackme]: https://tryhackme.com/p/TheOnlyOnzz
