@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 - 🖥️ Watch anime
 - 📖 Read about tech and business
 - 🧠 Learn about new technologies and hack stuff
-<br>
-*I swear, I'm not a complete nerd*
-<br>
 - 🃏 Learn cardistry and card magic
 - 🛹 Skateboard
 - 💪 Work out
