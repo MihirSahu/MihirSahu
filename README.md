@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 ### I Love To
 - 🎮 Play video games
 - 🖥️ Watch anime
-- 📖Read about tech and business
-- 🧠Learn about new technologies and hack stuff
+- 📖 Read about tech and business
+- 🧠 Learn about new technologies and hack stuff
 <br>
 *I swear, I'm not a complete nerd*
-- 🃏Learn cardistry and card magic
-- 🛹Skateboard
-- 💪Work out
+<br>
+- 🃏 Learn cardistry and card magic
+- 🛹 Skateboard
+- 💪 Work out
 
 ### Contact Me
 - ✉️  2002mihir@gmail.com
