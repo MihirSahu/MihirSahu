@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="the-mihir-sahu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/the-mihir-sahu?trk=profile-badge">Mihir Sahu</a></div>
+
 [![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihirSahu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirSahu&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
